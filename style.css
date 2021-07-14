@@ -1,0 +1,70 @@
+#main {
+    background-color: #eeeeee;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 30px auto;
+    max-width: 1300px;
+    max-height: 100%;
+  }
+  body {
+    font-family: "Roboto";
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #333;
+    margin: 15;
+  }
+  #title {
+    text-align: center;
+    font-size: 2.5rem;
+    font-style: bold;
+  }
+  p {
+    font-size: 1rem;
+    text-align: center;
+  }
+  #img-div {
+    background-color: white;
+    width: 1200px;
+  }
+  #image {
+    
+    width: 100%;
+    height: auto;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #img-caption {
+    font-size: 1rem;
+    font-family: "Roboto";
+    padding: 10px 90px 10px;
+  }
+  #link {
+    font-size: 1.3rem;
+  }
+  #tribute-info {
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+    text-align: left;
+    font-size: 1rem;
+    max-width: 600px;
+  }
+  li {
+    margin: 15px 0;
+  }
+  i {
+    text-align: left;
+    font-size: 1rem;
+    max-width: 540px;
+  }
+  h4 {
+    text-align: center;
+  }
+  #tribute-link {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  
